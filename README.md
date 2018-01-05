@@ -1,5 +1,6 @@
 # Digital-Image-Processing-Algorithms
 SJTU CS386 Digital Image Processing course project
+
 Contents:
 - Project 1: Histogram Equalization
 - Project 2: Enhance Images with Spatial Filters
